@@ -1,4 +1,4 @@
-# Создание и запуск приложения, программирование интерфейса экранов и действий на них
+# Индекс Руфье
 
 from kivy.app import App
 from kivy.uix.label import Label
